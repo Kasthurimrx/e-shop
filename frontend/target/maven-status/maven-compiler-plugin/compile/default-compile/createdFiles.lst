@@ -1,0 +1,3 @@
+com\niit\controller\MainController.class
+com\niit\config\DBConfig.class
+com\niit\model\UserRegister.class
