@@ -1,0 +1,56 @@
+@CHARSET "ISO-8859-1";
+
+form {
+    border: 3px solid #f1f1f1;
+}
+input[type=text], input[type=password],input[type=email],select[name=Category],select[name=Supplier] {
+    width: 20%;
+    padding: 5px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.reg label
+{
+	float:left;
+	width:150px;
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+   width:20%;
+}
+button:hover {
+    opacity: 0.8;
+}
+.imgcontainer {
+    text-align: center;
+    margin: 20px 0 10px 0;
+}
+.container {
+	
+    padding: 16px;
+    text-align:center;
+}
+form {
+background: url() no-repeat top left fixed #f0e9d6;
+margin: 0;
+padding: 0;
+}
+.reg
+{
+	 
+	 padding-left:30%;
+	 padding-bottom:5px;
+    
+}
+
+
+
+ 
+
+
+ 
+
+
